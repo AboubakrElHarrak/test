@@ -1,6 +1,6 @@
-![](attachments/banner.png)
+# Realization of Campus Navigation Map
 
-# Data Structure Course Design Topic 2 - Realization of Campus Navigation Map
+![](attachments/banner.png)
 
 ## 1. Design content and requirements
 
